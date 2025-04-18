@@ -4,15 +4,13 @@
 <!--About Me-->
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-🚀 I am a highly committed developer and passionate about technology, with a great
-
-capacity for learning and adapting.
+🚀 I am a highly committed developer and passionate about technology, with a great capacity for learning and adapting.
 <p></p>
 🎓 I am currently studying Systems Engineering and I have experience in software development using different programming languages.
 <p></p>
 🎯 My profile is focused on my academic career, including university projects, research and internships developed in different semesters.
 
-<br>
+<br><p></p>
 
 <!--University Tour-->
 # 🏢 University Tour
@@ -53,7 +51,7 @@ Throughout my training, I have developed projects and internships in various are
 
 </div>
 
-<p></p>
+<p></p><p></p>
 
 <!--My Skills-->
 # 🛠️ My Skills
@@ -109,7 +107,7 @@ Throughout my training, I have developed projects and internships in various are
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-<p></p><p></p>
+<br><p></p>
 
 <!--GitHub Stats-->
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
@@ -133,7 +131,7 @@ Throughout my training, I have developed projects and internships in various are
 </table>
 
 <!--Contact-->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # 📫 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jcruz24p@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3025314542)
